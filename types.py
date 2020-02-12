@@ -32,3 +32,9 @@ escaped = 'i ain\'t gonna'
 print(escaped)
 
 print(zero_chars)
+
+a = 4  # integer
+
+b = 5.6  # float
+
+print(1.01 - .99)
